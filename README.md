@@ -21,40 +21,40 @@ Leading zeros are excluded from CIKs and file name months or days.
 ### Client A (CIK: XXXXXXXXXX)
 
 - Statements of Profit, Loss, and Retained Earnings (PNL)
-  - YYYY-M-D_Quarterly.pdf
-  - YYYY-M-D_Annual.pdf
+  - yyyy-m-d_quarterly.pdf
+  - yyyy-m-d_annual.pdf
 
 - Balance Sheets (BAL)
-  - YYYY-M-D_Quarterly.pdf
-  - YYYY-M-D_Annual.pdf
+  - yyyy-m-d_quarterly.pdf
+  - yyyy-m-d_annual.pdf
 
 - Issuer Reports (DOC)
-  - YYYY-M-D_Quarterly.pdf
-  - YYYY-M-D_Annual.pdf
-  - YYYY-M-D_Other.pdf
+  - yyyy-m-d_quarterly.pdf
+  - yyyy-m-d_annual.pdf
+  - yyyy-m-d_other.pdf
 
 - Definitive Proxy Statements (DEF)
-  - YYYY-M-D_Annual.pdf
-  - YYYY-M-D_Special.pdf
+  - yyyy-m-d_annual.pdf
+  - yyyy-m-d_special.pdf
 
 ### Client B (CIK: YYYYYYYYYY)
 
 - Statements of Profit, Loss, and Retained Earnings (PNL)
-  - YYYY-M-D_Quarterly.pdf
-  - YYYY-M-D_Annual.pdf
+  - yyyy-m-d_quarterly.pdf
+  - yyyy-m-d_annual.pdf
 
 - Balance Sheets (BAL)
-  - YYYY-M-D_Quarterly.pdf
-  - YYYY-M-D_Annual.pdf
+  - yyyy-m-d_quarterly.pdf
+  - yyyy-m-d_annual.pdf
 
 - Issuer Reports (DOC)
-  - YYYY-M-D_Quarterly.pdf
-  - YYYY-M-D_Annual.pdf
-  - YYYY-M-D_Other.pdf
+  - yyyy-m-d_quarterly.pdf
+  - yyyy-m-d_annual.pdf
+  - yyyy-m-d_other.pdf
 
 - Definitive Proxy Statements (DEF)
-  - YYYY-M-D_Annual.pdf
-  - YYYY-M-D_Special.pdf
+  - yyyy-m-d_annual.pdf
+  - yyyy-m-d_special.pdf
 
 ## Disclaimer
 
