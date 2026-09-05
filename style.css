@@ -49,3 +49,22 @@ section {
   text-indent: 0;
   color: #ffff;
 }
+
+body.homepage {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 100dvh;
+  margin: 0;
+  padding: 0 8px;
+}
+.homepage > .issuer-logo {
+  flex-shrink: 0;
+}
+.homepage > .main {
+  flex: 1;
+  margin: 0 auto;
+}
+.homepage > footer {
+  max-width: calc(100% - 40px);
+}
